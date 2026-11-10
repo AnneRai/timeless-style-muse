@@ -133,3 +133,17 @@
 @utility bg-plaid {
   background-image: var(--plaid);
 }
+
+@layer components {
+  .stylist-answer img {
+    display: inline-block;
+    width: 9rem;
+    height: 11rem;
+    object-fit: cover;
+    margin: 0.25rem 0.5rem 0.25rem 0;
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius);
+    background: var(--color-card);
+  }
+  .stylist-answer h2, .stylist-answer h3 { font-family: var(--font-display); color: var(--color-primary); }
+}
