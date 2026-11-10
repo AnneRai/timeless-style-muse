@@ -1,1 +1,754 @@
-[]
+[
+ {
+  "nome": "Saia xadrez azul com babados",
+  "categoria": "saia",
+  "cor": "Azul marinho e branco",
+  "detalhes": "Saia curta de modelagem evasê com três camadas de babados horizontais. Possui cós elástico com amarração frontal e estampa xadrez clássica em tecido plano leve.",
+  "id": "peca-1",
+  "url": "/__l5e/assets-v1/66dc2245-60ec-45c4-a53f-99c390024837/peca-1.jpg"
+ },
+ {
+  "nome": "Calça jeans azul claro de corte reto",
+  "categoria": "calça",
+  "cor": "azul claro",
+  "detalhes": "Confeccionada em jeans de lavagem clara, possui modelagem reta com cintura alta. Apresenta passantes para cinto, bolsos frontais e pespontos visíveis em tom contrastante.",
+  "id": "peca-2",
+  "url": "/__l5e/assets-v1/1381a24f-6d44-46f7-b513-1d8e1385a9bc/peca-2.jpg"
+ },
+ {
+  "nome": "Calça jeans azul escura",
+  "categoria": "calça",
+  "cor": "azul escura",
+  "detalhes": "Modelagem skinny de cintura alta em tecido jeans com lavagem clássica. Possui bolsos frontais e traseiros, com estrutura ajustada ao corpo ao longo de todo o comprimento.",
+  "id": "peca-3",
+  "url": "/__l5e/assets-v1/3bab9a4c-d9c1-4a6a-82e7-c91dd32d63ab/peca-3.jpg"
+ },
+ {
+  "nome": "Calça jogger mescla cinza",
+  "categoria": "calça",
+  "cor": "Cinza mescla com detalhes em preto",
+  "detalhes": "Modelagem esportiva tipo jogger em malha moletinho com punhos e cós elásticos contrastantes. Possui amarração por cordão na cintura e um detalhe de mancha escura na perna direita.",
+  "id": "peca-4",
+  "url": "/__l5e/assets-v1/f9fa60a3-b15d-4409-a9b9-b0fa655ef062/peca-4.jpg"
+ },
+ {
+  "nome": "Calça jeans azul escura skinny",
+  "categoria": "calça",
+  "cor": "Azul escuro",
+  "detalhes": "Modelagem justa ao corpo (skinny) em tecido jeans com lavagem levemente estonada nas coxas. Possui cintura alta, cós com passantes e fechamento frontal por zíper e botão.",
+  "id": "peca-5",
+  "url": "/__l5e/assets-v1/cb251409-d674-4449-974d-761f6dffc28e/peca-5.jpg"
+ },
+ {
+  "nome": "Calça pantalona verde oliva",
+  "categoria": "calça",
+  "cor": "verde oliva",
+  "detalhes": "Modelagem pantalona de pernas largas com vincos verticais estruturados. O tecido apresenta uma textura leve e fluida, com cintura alta e fechamento frontal por botão.",
+  "id": "peca-6",
+  "url": "/__l5e/assets-v1/9100ecf4-fd48-4541-aea8-87dae91a3e2b/peca-6.jpg"
+ },
+ {
+  "nome": "Minissaia floral com babados",
+  "categoria": "saia",
+  "cor": "branca com estampa floral rosa e azul",
+  "detalhes": "Modelagem curta em camadas de babados sobrepostos, feita em tecido leve com acabamento desfiado nas barras.",
+  "id": "peca-7",
+  "url": "/__l5e/assets-v1/56317320-6a86-47b5-b2be-b5804855c6c2/peca-7.jpg"
+ },
+ {
+  "nome": "Saia xadrez vermelha e preta plissada",
+  "categoria": "saia",
+  "cor": "Vermelha e preta",
+  "detalhes": "Modelagem curta em corte evasê com pregas estruturadas por toda a extensão. O tecido apresenta estampa clássica em xadrez tipo tartan e fechamento lateral por botão no cós.",
+  "id": "peca-8",
+  "url": "/__l5e/assets-v1/abcb7c45-3f47-4e92-a18d-cfa885fb0e27/peca-8.jpg"
+ },
+ {
+  "nome": "Calça jogger verde oliva com amarração",
+  "categoria": "calça",
+  "cor": "verde oliva",
+  "detalhes": "Modelagem jogger solta com punhos elásticos no tornozelo e cintura alta. Confeccionada em tecido plano leve, possui um cordão de amarração frontal ornamentado com tassels na mesma cor.",
+  "id": "peca-9",
+  "url": "/__l5e/assets-v1/1b12f9e2-0c43-4531-b7d8-bf5bccd69c23/peca-9.jpg"
+ },
+ {
+  "nome": "Calça pantalona verde lima",
+  "categoria": "calça",
+  "cor": "verde lima",
+  "detalhes": "Modelagem pantalona com pernas amplas e corte reto, confeccionada em tecido leve de aparência fluida. Possui cintura alta com cós liso e comprimento longo.",
+  "id": "peca-10",
+  "url": "/__l5e/assets-v1/6cc49c4c-25a8-402b-a86b-e4c72e01d106/peca-10.jpg"
+ },
+ {
+  "nome": "Short jeans azul claro com barra desfiada",
+  "categoria": "short",
+  "cor": "azul claro",
+  "detalhes": "Modelagem curta em tecido jeans com lavagem clara estonada e fechamento frontal por botões aparentes. Possui barra com acabamento desfiado e bolsos frontais clássicos.",
+  "id": "peca-11",
+  "url": "/__l5e/assets-v1/17980b22-b4e6-4c65-97db-d336b5114c8d/peca-11.jpg"
+ },
+ {
+  "nome": "Saia azul marinho com estampa de corações coloridos",
+  "categoria": "saia",
+  "cor": "Azul marinho com corações amarelos, brancos, azuis claros e corais",
+  "detalhes": "Saia de comprimento curto com modelagem godê, proporcionando caimento fluido e levemente rodado. O tecido possui aparência de malha elástica com cós simples.",
+  "id": "peca-12",
+  "url": "/__l5e/assets-v1/2f11e016-5fc0-4928-b4af-d49b2d344f71/peca-12.jpg"
+ },
+ {
+  "nome": "Saia curta cinza mescla com babado",
+  "categoria": "saia",
+  "cor": "Cinza mescla",
+  "detalhes": "Modelagem curta com pala larga na cintura e barra em babado franzido. Confeccionada em tecido de malha confortável com estrutura leve e maleável.",
+  "id": "peca-13",
+  "url": "/__l5e/assets-v1/67dcae1a-3dc8-42f6-a69a-2b3d1b7eb8c4/peca-13.jpg"
+ },
+ {
+  "nome": "Calça cigarrete xadrez preto e branco",
+  "categoria": "calça",
+  "cor": "Preto e branco",
+  "detalhes": "Modelagem justa com cintura alta e comprimento acima do tornozelo, confeccionada em tecido de alfaiataria com padronagem xadrez miúda. Apresenta estrutura reta e acabamento limpo no cós.",
+  "id": "peca-14",
+  "url": "/__l5e/assets-v1/ea702860-7a41-444d-8fc3-cb2662e548dd/peca-14.jpg"
+ },
+ {
+  "nome": "Vestido canelado cinza tomara que caia",
+  "categoria": "vestido",
+  "cor": "Cinza",
+  "detalhes": "Modelagem justa ao corpo em tecido de malha canelada, com comprimento midi e decote reto sem alças.",
+  "id": "peca-15",
+  "url": "/__l5e/assets-v1/a96c24a7-2d59-4dd3-b047-ed1076e8eb1a/peca-15.jpg"
+ },
+ {
+  "nome": "Top cropped marrom com ilhoses",
+  "categoria": "blusa",
+  "cor": "marrom",
+  "detalhes": "Modelagem justa estilo corset com alças largas e decote quadrado. Possui fechamento frontal por ilhoses metálicos e costuras estruturais verticais em tecido plano.",
+  "id": "peca-16",
+  "url": "/__l5e/assets-v1/052ea6ad-9268-47ce-9fc7-ef6d498207d4/peca-16.jpg"
+ },
+ {
+  "nome": "Top cropped frente única preto",
+  "categoria": "blusa",
+  "cor": "preto",
+  "detalhes": "Modelagem justa ao corpo com gola alta e cavas americanas. O tecido apresenta textura canelada e comprimento curto estilo cropped.",
+  "id": "peca-17",
+  "url": "/__l5e/assets-v1/3e9b56ad-eda3-4aee-bc0c-092785fd5bad/peca-17.jpg"
+ },
+ {
+  "nome": "Regata com capuz cinza mescla",
+  "categoria": "camiseta",
+  "cor": "Cinza mescla",
+  "detalhes": "Modelagem solta estilo regata machão sem mangas, confeccionada em malha de algodão aparente. Possui capuz integrado e barra com corte levemente arredondado.",
+  "id": "peca-18",
+  "url": "/__l5e/assets-v1/3b9674d2-0eb7-4dcc-92e4-8cf77aa41e5f/peca-18.jpg"
+ },
+ {
+  "nome": "Camiseta cropped Kuromi branca com gola preta",
+  "categoria": "camiseta",
+  "cor": "Branca",
+  "detalhes": "Modelagem cropped de manga curta em malha de algodão com estampa frontal da personagem Kuromi. Possui acabamento em ribana preta contrastante na gola redonda e nas barras das mangas.",
+  "id": "peca-19",
+  "url": "/__l5e/assets-v1/bb7cc953-b11b-44d9-a80c-d791d2d6732a/peca-19.jpg"
+ },
+ {
+  "nome": "Body bordô de alças finas",
+  "categoria": "outro",
+  "cor": "bordô",
+  "detalhes": "Modelagem ajustada ao corpo com decote em formato de coração e alças finas tipo espaguete. Confeccionado em tecido elástico liso, possui fecho por botões de pressão na parte inferior e costuras verticais estruturantes.",
+  "id": "peca-20",
+  "url": "/__l5e/assets-v1/568ec5e0-1af6-401b-8c42-aef894657103/peca-20.jpg"
+ },
+ {
+  "nome": "Top cropped corset laranja neon",
+  "categoria": "blusa",
+  "cor": "Laranja neon",
+  "detalhes": "Modelagem justa estilo corset com barras em ponta e costuras verticais estruturais. Possui alças médias e decote levemente arredondado, confeccionado em tecido elástico liso.",
+  "id": "peca-21",
+  "url": "/__l5e/assets-v1/91bb76f3-6a07-4892-a199-7551b1b9f4d6/peca-21.jpg"
+ },
+ {
+  "nome": "Top cropped corset rosa claro",
+  "categoria": "blusa",
+  "cor": "rosa claro",
+  "detalhes": "Modelagem estilo corset com alças finas e acabamento inferior em bico (assimétrico). Apresenta costuras verticais estruturadas que simulam barbatanas em tecido leve com elasticidade.",
+  "id": "peca-22",
+  "url": "/__l5e/assets-v1/710e924c-c181-4b1b-a0fd-955996f841d2/peca-22.jpg"
+ },
+ {
+  "nome": "Top cropped amarelo com amarração frontal e bandeira do Brasil",
+  "categoria": "blusa",
+  "cor": "amarelo",
+  "detalhes": "Modelagem cropped estilo regata em tecido de malha, com decote U e amarração frontal por cordão azul. Apresenta costuras verdes aparentes, barra com acabamento a fio e um pequeno patch da bandeira do Brasil no peito.",
+  "id": "peca-23",
+  "url": "/__l5e/assets-v1/c6d9f8af-fa23-4f90-8455-db79944f495c/peca-23.jpg"
+ },
+ {
+  "nome": "Regata gola alta amarela",
+  "categoria": "blusa",
+  "cor": "amarelo",
+  "detalhes": "Modelagem ajustada sem mangas com gola alta levemente canelada. O tecido aparenta ser uma malha de algodão ou ribana de comprimento padrão.",
+  "id": "peca-24",
+  "url": "/__l5e/assets-v1/3ff193b4-7a2e-4fd5-a922-2b3d06d5420d/peca-24.jpg"
+ },
+ {
+  "nome": "Camisa polo cinza mescla com estampa",
+  "categoria": "camisa",
+  "cor": "Cinza mescla",
+  "detalhes": "Modelagem clássica de manga curta com gola colarinho e peitilho. Tecido de malha aparente com uma estampa retangular vermelha contendo um gráfico branco no lado esquerdo do peito.",
+  "id": "peca-25",
+  "url": "/__l5e/assets-v1/d4fca336-886c-4ae4-9e75-d32c4d411363/peca-25.jpg"
+ },
+ {
+  "nome": "Regata vermelha básica",
+  "categoria": "blusa",
+  "cor": "Vermelha",
+  "detalhes": "Modelagem justa sem mangas, com decote em V discreto e tecido de malha com textura leve. Possui comprimento padrão e acabamento simples nas barras.",
+  "id": "peca-26",
+  "url": "/__l5e/assets-v1/4f4108fe-e059-4887-8bf2-6156147528c8/peca-26.jpg"
+ },
+ {
+  "nome": "Camisa polo vermelha com estampa",
+  "categoria": "camisa",
+  "cor": "Vermelha",
+  "detalhes": "Modelagem clássica de mangas curtas e gola colarinho em tecido de malha piquet. Apresenta uma estampa retangular branca com um desenho de tubarão no lado esquerdo do peito.",
+  "id": "peca-27",
+  "url": "/__l5e/assets-v1/2f8985a6-4b20-41c8-a4f3-19a9d88ee7e1/peca-27.jpg"
+ },
+ {
+  "nome": "Top cropped vermelho com alças de amarração",
+  "categoria": "blusa",
+  "cor": "Vermelho",
+  "detalhes": "Modelagem solta estilo bata com comprimento cropped e tecido leve. Possui alças finas ajustáveis por amarração nos ombros e decote com acabamento franzido.",
+  "id": "peca-28",
+  "url": "/__l5e/assets-v1/cc9fb426-3fd9-4d12-84a5-32f5d1536dfc/peca-28.jpg"
+ },
+ {
+  "nome": "Top frente única vermelho",
+  "categoria": "blusa",
+  "cor": "Vermelho",
+  "detalhes": "Modelagem cropped com decote em V profundo e alças finas para amarração no pescoço. Tecido aparentemente leve e maleável com acabamento simples na barra.",
+  "id": "peca-29",
+  "url": "/__l5e/assets-v1/65c6c15f-3834-4301-af97-2782cd49a89e/peca-29.jpg"
+ },
+ {
+  "nome": "Top cropped bege de alças finas",
+  "categoria": "outro",
+  "cor": "bege",
+  "detalhes": "Peça íntima ou esportiva em malha canelada elástica, com modelagem justa e decote em V. Possui alças finas que se unem nas costas em um detalhe rendado central.",
+  "id": "peca-30",
+  "url": "/__l5e/assets-v1/c26dee1f-6d74-4819-b7e3-8cfa1ceacd6e/peca-30.jpg"
+ },
+ {
+  "nome": "Top frente única floral verde",
+  "categoria": "blusa",
+  "cor": "verde e branco",
+  "detalhes": "Modelagem frente única triangular com amarração fina no pescoço e nas costas. Tecido leve com estampa floral miúda e acabamento em viés branco por toda a borda.",
+  "id": "peca-31",
+  "url": "/__l5e/assets-v1/0906b594-5436-4f7a-88a8-b91652e3fcc5/peca-31.jpg"
+ },
+ {
+  "nome": "Top cropped branco com amarração frontal",
+  "categoria": "blusa",
+  "cor": "branco",
+  "detalhes": "Modelagem cropped com decote em V e amarração frontal por cordão ajustável. Apresenta alças largas trabalhadas com babados e tecido leve de aspecto texturizado.",
+  "id": "peca-32",
+  "url": "/__l5e/assets-v1/455f7989-9556-40d1-8ab9-c2bf00c19482/peca-32.jpg"
+ },
+ {
+  "nome": "Top cropped de renda branca",
+  "categoria": "blusa",
+  "cor": "Branco",
+  "detalhes": "Modelagem cropped com alças finas, confeccionado em renda floral vazada com acabamento em barra recortada (festonê). Possui pequenos detalhes perolados aplicados sobre a trama do tecido.",
+  "id": "peca-33",
+  "url": "/__l5e/assets-v1/ace9ebd0-50e2-4b1c-95af-cc4f8c892de2/peca-33.jpg"
+ },
+ {
+  "nome": "Bralette de renda rosa",
+  "categoria": "outro",
+  "cor": "Rosa vibrante / Pink",
+  "detalhes": "Modelagem estilo top cropped com alças finas ajustáveis e decote em V profundo. Confeccionado inteiramente em renda floral com transparência na base e forro nos seios.",
+  "id": "peca-34",
+  "url": "/__l5e/assets-v1/5a2871d5-7162-4d0f-b10f-4c19813903e1/peca-34.jpg"
+ },
+ {
+  "nome": "Camiseta cropped branca de manga curta",
+  "categoria": "camiseta",
+  "cor": "branca",
+  "detalhes": "Peça de modelagem justa e comprimento curto (cropped) em malha de algodão simples. Possui decote careca e acabamento básico nas mangas e barra.",
+  "id": "peca-35",
+  "url": "/__l5e/assets-v1/1098b8c5-c023-4718-b331-c7cceca842b9/peca-35.jpg"
+ },
+ {
+  "nome": "Top cropped rosa de crochê",
+  "categoria": "blusa",
+  "cor": "rosa",
+  "detalhes": "Peça artesanal em crochê com trama fechada e modelagem tomara que caia. Possui alças finas e cordões longos centrais para amarração frontal ou no pescoço.",
+  "id": "peca-36",
+  "url": "/__l5e/assets-v1/8283f8f7-ca8b-4ff3-996a-50fbd777c45a/peca-36.jpg"
+ },
+ {
+  "nome": "Top cropped prateado de paetês",
+  "categoria": "blusa",
+  "cor": "prateado",
+  "detalhes": "Modelagem justa estilo top cropped com alças finas reguláveis. O tecido é inteiramente recoberto por paetês prateados brilhantes, com comprimento curto acima da cintura.",
+  "id": "peca-37",
+  "url": "/__l5e/assets-v1/12de3a74-c665-4719-bce5-436c3bbefc53/peca-37.jpg"
+ },
+ {
+  "nome": "Top cropped listrado de alças finas",
+  "categoria": "blusa",
+  "cor": "Multicolorido (branco, verde, roxo e cinza)",
+  "detalhes": "Modelagem estilo top triangular com decote em V e alças finas cruzadas nas costas. Tecido de malha leve com estampa de listras verticais em tons pastéis e neutros.",
+  "id": "peca-38",
+  "url": "/__l5e/assets-v1/f0b3a82e-2ef4-4792-b82d-6eae92bb9f5a/peca-38.jpg"
+ },
+ {
+  "nome": "Blusa cropped listrada preta e branca",
+  "categoria": "blusa",
+  "cor": "Preto e branco",
+  "detalhes": "Modelagem justa ao corpo em estilo cropped, com mangas longas e decote canoa. Possui estampa de listras horizontais regulares e acabamento simples nas barras.",
+  "id": "peca-39",
+  "url": "/__l5e/assets-v1/c6b196ff-e07d-41f3-ab27-a7ad4f8f5830/peca-39.jpg"
+ },
+ {
+  "nome": "Camiseta do Flamengo branca número 43",
+  "categoria": "camiseta",
+  "cor": "Branca com detalhes em vermelho e preto",
+  "detalhes": "Modelagem esportiva de manga curta em tecido sintético leve. Apresenta gola careca vermelha, o escudo do clube no peito e uma faixa vertical centralizada com degradê.",
+  "id": "peca-40",
+  "url": "/__l5e/assets-v1/e445c908-2876-4a26-9d84-975f2ef0acbe/peca-40.jpg"
+ },
+ {
+  "nome": "Blusa branca com mangas bufantes",
+  "categoria": "blusa",
+  "cor": "branco",
+  "detalhes": "Modelagem solta com decote quadrado elástico e mangas curtas bufantes. O tecido parece ser um algodão ou linho leve com acabamento simples na barra.",
+  "id": "peca-41",
+  "url": "/__l5e/assets-v1/a3b36cab-aa84-432c-9a36-87b4cd54383d/peca-41.jpg"
+ },
+ {
+  "nome": "Blusa de renda preta manga longa",
+  "categoria": "blusa",
+  "cor": "Preto",
+  "detalhes": "Blusa de modelagem ajustada em renda floral com transparência e mangas longas. Possui gola redonda simples e comprimento padrão na altura do quadril.",
+  "id": "peca-42",
+  "url": "/__l5e/assets-v1/453d9961-0ede-4d7c-950e-768130b3e907/peca-42.jpg"
+ },
+ {
+  "nome": "Blusa de renda preta manga longa",
+  "categoria": "blusa",
+  "cor": "preta",
+  "detalhes": "Modelagem ajustada ao corpo em tecido de renda floral com transparência. Possui mangas longas, gola levemente alta e acabamento simples nas barras.",
+  "id": "peca-43",
+  "url": "/__l5e/assets-v1/7699c57c-6e1e-4e47-be34-4057a51d5ce1/peca-43.jpg"
+ },
+ {
+  "nome": "Camisa de chiffon preta com transparência",
+  "categoria": "camisa",
+  "cor": "preta",
+  "detalhes": "Modelagem solta em tecido leve com transparência, apresentando fechamento frontal por botões e barra posterior levemente alongada e arredondada. As mangas são longas com punhos abotoados, conferindo uma estrutura fluida à peça.",
+  "id": "peca-44",
+  "url": "/__l5e/assets-v1/c1057d9f-5fff-456d-83ce-a7d7947f1978/peca-44.jpg"
+ },
+ {
+  "nome": "Top faixa de renda preto",
+  "categoria": "outro",
+  "cor": "Preto",
+  "detalhes": "Modelagem tomara-que-caia curta, estilo faixa, confeccionada em renda com textura levemente franzida e acabamento de bico de renda nas bordas superior e inferior.",
+  "id": "peca-45",
+  "url": "/__l5e/assets-v1/5bbc0f96-2817-4444-b5d8-96c3d7d57858/peca-45.jpg"
+ },
+ {
+  "nome": "Camiseta preta Twenty One Pilots",
+  "categoria": "camiseta",
+  "cor": "Preto",
+  "detalhes": "Modelagem clássica de mangas curtas e gola redonda, confeccionada em malha de algodão. Possui estampa frontal colorida com elementos gráficos e fotos da banda em tons de amarelo, vermelho e branco.",
+  "id": "peca-46",
+  "url": "/__l5e/assets-v1/bad3594f-8a14-467d-94f6-8ecc5737dd9c/peca-46.jpg"
+ },
+ {
+  "nome": "Camiseta de futebol americano preta do Ravens número 96",
+  "categoria": "camiseta",
+  "cor": "preta",
+  "detalhes": "Modelagem oversized esportiva em tecido sintético tipo mesh, com decote em V e estampas gráficas frontais e nas mangas. Apresenta listras roxas e amarelas nos braços e logotipos oficiais da NFL e do time Baltimore Ravens.",
+  "id": "peca-47",
+  "url": "/__l5e/assets-v1/38b2d6d3-56ef-4e78-8020-1a60168546db/peca-47.jpg"
+ },
+ {
+  "nome": "Camiseta Bring Me The Horizon preta com estampa",
+  "categoria": "camiseta",
+  "cor": "Preto",
+  "detalhes": "Modelagem oversize em malha de algodão com gola redonda e mangas curtas. Apresenta estampa frontal colorida do álbum 'Post Human: Nex Gen' com acabamento reto.",
+  "id": "peca-48",
+  "url": "/__l5e/assets-v1/1910f667-b76b-4bc3-9264-a61d5ab992c9/peca-48.jpg"
+ },
+ {
+  "nome": "Camiseta preta com estampa de desenho",
+  "categoria": "camiseta",
+  "cor": "preto",
+  "detalhes": "Modelagem clássica de mangas curtas e gola redonda, confeccionada em tecido de malha. Apresenta uma estampa colorida centralizada com temática de desenho animado.",
+  "id": "peca-49",
+  "url": "/__l5e/assets-v1/23e60628-f0e5-443d-af32-9644ec7f0a91/peca-49.jpg"
+ },
+ {
+  "nome": "Saia patinadora preta",
+  "categoria": "saia",
+  "cor": "preto",
+  "detalhes": "Saia de comprimento curto com modelagem godê (patinadora), apresentando um caimento fluido e estruturado em tecido de malha firme. Possui cós liso e silhueta em formato de 'A' que cria ondas naturais no tecido.",
+  "id": "peca-50",
+  "url": "/__l5e/assets-v1/eb1f41c5-e1ce-43f6-9478-c7a1d681cde8/peca-50.jpg"
+ },
+ {
+  "nome": "Saia preta com babados e cós prateado",
+  "categoria": "saia",
+  "cor": "Preto e prata",
+  "detalhes": "Minissaia com modelagem em camadas de babados e tecido translúcido sobreposto a um forro opaco. Apresenta cós elástico em material brilhante prateado.",
+  "id": "peca-51",
+  "url": "/__l5e/assets-v1/365acad2-6806-471c-b7f0-082da1724ad4/peca-51.jpg"
+ },
+ {
+  "nome": "Saia curta preta com brilho",
+  "categoria": "saia",
+  "cor": "preta",
+  "detalhes": "Modelagem evasê curta em tecido maleável com pontos de brilho (glitter) espalhados por toda a peça. Apresenta cintura com elástico interno e caimento fluido.",
+  "id": "peca-52",
+  "url": "/__l5e/assets-v1/eeb73893-db04-4ef2-b8dd-f8d8b414c54b/peca-52.jpg"
+ },
+ {
+  "nome": "Saia curta xadrez preta e branca",
+  "categoria": "saia",
+  "cor": "Preto e branco",
+  "detalhes": "Modelagem evasê curta com estampa xadrez clássica. O tecido apresenta uma textura encorpada, estruturada e sem pregas aparentes.",
+  "id": "peca-53",
+  "url": "/__l5e/assets-v1/47648b98-8d10-4ebf-8a7b-8272e4d6e85d/peca-53.jpg"
+ },
+ {
+  "nome": "Saia xadrez vichy preta e branca com fenda",
+  "categoria": "saia",
+  "cor": "Preto e branco",
+  "detalhes": "Saia curta de modelagem reta em tecido plano com estampa xadrez miúdo. Possui cintura alta e uma pequena fenda lateral frontal.",
+  "id": "peca-54",
+  "url": "/__l5e/assets-v1/53b8340b-456d-477e-a44f-6eb2859e3ad1/peca-54.jpg"
+ },
+ {
+  "nome": "Top cropped lenço com estampa de dragão",
+  "categoria": "blusa",
+  "cor": "Preto e vermelho",
+  "detalhes": "Modelo cropped com alças finas e barra em ponta estilo lenço. Tecido com brilho acetinado e estampa oriental de dragões por toda a peça.",
+  "id": "peca-55",
+  "url": "/__l5e/assets-v1/46f96a56-ed18-4444-8fc0-d6e56460fa6d/peca-55.jpg"
+ },
+ {
+  "nome": "Blusa frente única preta",
+  "categoria": "blusa",
+  "cor": "preto",
+  "detalhes": "Modelagem frente única com decote em V profundo e alças largas que se prendem atrás do pescoço. Tecido plano de aparência fosca com costuras verticais estruturais que definem a silhueta.",
+  "id": "peca-56",
+  "url": "/__l5e/assets-v1/bc6705c6-29f5-4467-97b9-b37b0f641009/peca-56.jpg"
+ },
+ {
+  "nome": "Blusa cropped preta de manga longa",
+  "categoria": "blusa",
+  "cor": "preto",
+  "detalhes": "Modelagem ajustada ao corpo com comprimento cropped e gola alta. O tecido apresenta uma textura canelada e mangas longas estreitas.",
+  "id": "peca-57",
+  "url": "/__l5e/assets-v1/3601b54f-3a76-451b-a257-091618f60f05/peca-57.jpg"
+ },
+ {
+  "nome": "Vestido curto estampado com lastex",
+  "categoria": "vestido",
+  "cor": "verde água com estampa multicolorida",
+  "detalhes": "Modelo com alças finas e corpo em lastex elástico, apresentando estampa tropical de onças e folhagens. Possui comprimento curto com um leve babado na barra e tecido leve de aspecto plano.",
+  "id": "peca-58",
+  "url": "/__l5e/assets-v1/b4466ff0-dfa8-426a-ad70-0d9a538067a4/peca-58.jpg"
+ },
+ {
+  "nome": "Moletom azul claro UNIRIO",
+  "categoria": "casaco",
+  "cor": "azul claro",
+  "detalhes": "Modelagem oversized em tecido de moletom, com gola careca, punhos elásticos e estampa frontal 'UNIRIO' em estilo universitário.",
+  "id": "peca-59",
+  "url": "/__l5e/assets-v1/c7fe87e9-e1b3-4ac9-99f9-bdb53b205cce/peca-59.jpg"
+ },
+ {
+  "nome": "Vestido midi preto canelado",
+  "categoria": "vestido",
+  "cor": "preto",
+  "detalhes": "Modelagem ajustada ao corpo com decote ombro a ombro e detalhe de amarração frontal. Confeccionado em tecido de malha canelada com comprimento midi e mangas curtas.",
+  "id": "peca-60",
+  "url": "/__l5e/assets-v1/af76df5b-49ba-4c7c-89eb-d63e1f3eeb87/peca-60.jpg"
+ },
+ {
+  "nome": "Regata preta Deftones com estampa de coruja",
+  "categoria": "camiseta",
+  "cor": "Preta",
+  "detalhes": "Modelagem regata cavada em malha de algodão com gola redonda contrastante. Apresenta estampa frontal branca de arte gráfica da banda Deftones com elementos de coruja e caveira.",
+  "id": "peca-61",
+  "url": "/__l5e/assets-v1/382b8b04-7998-4942-92c3-7d1bfedf39ce/peca-61.jpg"
+ },
+ {
+  "nome": "Short jeans preto de cintura alta",
+  "categoria": "short",
+  "cor": "preto",
+  "detalhes": "Modelagem justa com comprimento curto e cintura alta, confeccionado em tecido jeans sarja. Possui bolsos frontais, passantes para cinto e fechamento por botão e zíper metálicos.",
+  "id": "peca-62",
+  "url": "/__l5e/assets-v1/a0432909-91b2-4e6e-aa25-41320d2c3a61/peca-62.jpg"
+ },
+ {
+  "nome": "Vestido curto de veludo preto com alças",
+  "categoria": "vestido",
+  "cor": "preto",
+  "detalhes": "Modelagem justa em tecido de veludo molhado com brilho característico. Possui alças finas, comprimento curto e uma pequena fenda lateral na barra.",
+  "id": "peca-63",
+  "url": "/__l5e/assets-v1/c9f5c2b8-52ad-41ad-b774-0b9513b99cd8/peca-63.jpg"
+ },
+ {
+  "nome": "Camiseta preta Metallica estampa caveira",
+  "categoria": "camiseta",
+  "cor": "preta",
+  "detalhes": "Modelagem clássica de manga curta em malha de algodão. Apresenta uma estampa central grande com arte de caveira e o logotipo da banda Metallica em tons de cinza e vermelho.",
+  "id": "peca-64",
+  "url": "/__l5e/assets-v1/3949d4be-0508-4ca3-85c3-c26265daa98b/peca-64.jpg"
+ },
+ {
+  "nome": "Calça jeans rosa de sarja",
+  "categoria": "calça",
+  "cor": "Rosa chiclete",
+  "detalhes": "Modelagem reta com cintura alta, confeccionada em sarja ou jeans colorido. Possui passantes para cinto, fechamento frontal padrão e comprimento longo.",
+  "id": "peca-65",
+  "url": "/__l5e/assets-v1/d5a74fc7-78ad-4824-99ca-aa527c60ec1f/peca-65.jpg"
+ },
+ {
+  "nome": "Vestido longo preto com estampa de bolinhas brancas",
+  "categoria": "vestido",
+  "cor": "Preto e branco",
+  "detalhes": "Peça de modelagem acinturada com saia ampla e fluida, confeccionada em tecido leve. Apresenta decote em V e estampa clássica de poá em toda a extensão.",
+  "id": "peca-66",
+  "url": "/__l5e/assets-v1/83aacb01-f7c2-48c8-a5c3-c1ecfc72a395/peca-66.jpg"
+ },
+ {
+  "nome": "Blazer branco de tecido leve",
+  "categoria": "jaqueta",
+  "cor": "branco",
+  "detalhes": "Modelagem slim com gola tailleur e mangas longas dobradas. O tecido aparenta ser uma malha leve ou sarja fina, apresentando bolsos frontais decorativos e corte arredondado na barra.",
+  "id": "peca-67",
+  "url": "/__l5e/assets-v1/91ec9481-3f42-42b0-be30-e46e1551a542/peca-67.jpg"
+ },
+ {
+  "nome": "Vestido curto preto de mangas curtas",
+  "categoria": "vestido",
+  "cor": "Preto",
+  "detalhes": "Modelagem levemente ajustada com decote aberto e mangas curtas simples. O tecido parece ser uma malha leve e fluida de comprimento curto.",
+  "id": "peca-68",
+  "url": "/__l5e/assets-v1/2032c368-a030-4026-ac93-d0d907095e9b/peca-68.jpg"
+ },
+ {
+  "nome": "Vestido regata preto evasê",
+  "categoria": "vestido",
+  "cor": "preto",
+  "detalhes": "Vestido curto com alças largas estilo regata e decote arredondado. Apresenta modelagem ajustada no busto que se abre em corte evasê, confeccionado em tecido com aparência de malha ou algodão.",
+  "id": "peca-69",
+  "url": "/__l5e/assets-v1/579328e4-6b11-40c1-a59e-af9634955679/peca-69.jpg"
+ },
+ {
+  "nome": "Vestido jeans curto com zíper frontal",
+  "categoria": "vestido",
+  "cor": "Azul escuro",
+  "detalhes": "Modelagem evasê sem mangas em jeans estruturado com lavagem estonada. Possui zíper metálico frontal por toda a extensão e comprimento curto.",
+  "id": "peca-70",
+  "url": "/__l5e/assets-v1/9ca44580-efae-4a60-bf5b-82726d772b1a/peca-70.jpg"
+ },
+ {
+  "nome": "Camisa preta transparente de manga longa",
+  "categoria": "camisa",
+  "cor": "preto",
+  "detalhes": "Modelagem clássica com fechamento frontal por botões e gola colarinho. O tecido apresenta transparência leve, mangas longas com punhos estruturados e caimento fluido.",
+  "id": "peca-71",
+  "url": "/__l5e/assets-v1/96710933-9438-49d3-97c1-b54cfac99be4/peca-71.jpg"
+ },
+ {
+  "nome": "Saia midi cinza canelada",
+  "categoria": "saia",
+  "cor": "cinza",
+  "detalhes": "Modelagem justa ao corpo com comprimento midi e acabamento em barra simples. O tecido apresenta textura de malha canelada fina com estrutura elástica.",
+  "id": "peca-72",
+  "url": "/__l5e/assets-v1/328dee74-1435-424c-8d2b-43c649893c60/peca-72.jpg"
+ },
+ {
+  "nome": "Saia longa floral azul",
+  "categoria": "saia",
+  "cor": "Azul marinho com estampa branca e amarela",
+  "detalhes": "Modelagem solta em tecido leve e fluido, apresentando comprimento longo e cós elástico franzido. A peça possui uma estampa floral densa que cobre toda a superfície.",
+  "id": "peca-73",
+  "url": "/__l5e/assets-v1/5735366e-5218-4869-b9b2-652efa1e391a/peca-73.jpg"
+ },
+ {
+  "nome": "Saia longa preta fluida",
+  "categoria": "saia",
+  "cor": "preta",
+  "detalhes": "Modelagem evasê de comprimento longo, confeccionada em tecido leve com caimento fluido. Possui cós liso e estrutura simples sem estampas.",
+  "id": "peca-74",
+  "url": "/__l5e/assets-v1/3859ecad-6482-456f-8832-a4d2f4e3f366/peca-74.jpg"
+ },
+ {
+  "nome": "Vestido midi canelado listrado",
+  "categoria": "vestido",
+  "cor": "Preto e branco",
+  "detalhes": "Modelagem ajustada ao corpo em tecido de malha canelada com padronagem de listras horizontais. Possui decote redondo fechado, cava americana profunda e comprimento midi.",
+  "id": "peca-75",
+  "url": "/__l5e/assets-v1/e2941bd7-c222-4960-8a0f-9e53d2ca4ecb/peca-75.jpg"
+ },
+ {
+  "nome": "Vestido curto preto com glitter",
+  "categoria": "vestido",
+  "cor": "Preto com pontos multicoloridos brilhantes",
+  "detalhes": "Modelagem reta de mangas curtas e gola redonda com abertura nas costas. Tecido maleável com acabamento em glitter por toda a peça e comprimento acima do joelho.",
+  "id": "peca-76",
+  "url": "/__l5e/assets-v1/a948e010-2625-47ce-ad5a-eab2e5d292c4/peca-76.jpg"
+ },
+ {
+  "nome": "Vestido curto azul claro de alças finas",
+  "categoria": "vestido",
+  "cor": "Azul claro",
+  "detalhes": "Modelagem evasê com comprimento curto e decote reto levemente franzido. Confeccionado em malha leve com alças finas tipo espaguete.",
+  "id": "peca-77",
+  "url": "/__l5e/assets-v1/f91be0a4-9d3c-4332-b68b-76cd702d5f35/peca-77.jpg"
+ },
+ {
+  "nome": "Vestido xadrez vermelho de alcinha",
+  "categoria": "vestido",
+  "cor": "Vermelho e preto",
+  "detalhes": "Modelo tubinho curto com alças finas reguláveis e estampa xadrez clássica. O tecido possui aparência leve e toque sintético, com corte reto e estruturado.",
+  "id": "peca-78",
+  "url": "/__l5e/assets-v1/31c00f53-8602-44ae-96f1-9c63db06ec5e/peca-78.jpg"
+ },
+ {
+  "nome": "Vestido longo preto com estampa galáxia",
+  "categoria": "vestido",
+  "cor": "Preto com estampas coloridas (azul, verde e branco)",
+  "detalhes": "Vestido de comprimento longo em malha leve, com mangas curtas e decote em V. Possui estampa temática espacial com planetas, estrelas e constelações distribuídos por toda a peça.",
+  "id": "peca-79",
+  "url": "/__l5e/assets-v1/f5c11050-ffff-4b13-ba69-806ad6dfc628/peca-79.jpg"
+ },
+ {
+  "nome": "Vestido curto preto de tule com poá",
+  "categoria": "vestido",
+  "cor": "preto",
+  "detalhes": "Modelagem acinturada com mangas longas e saia em camadas de tule translúcido com estampa de poá. Possui decote em V transpassado e acabamento em babados na barra.",
+  "id": "peca-80",
+  "url": "/__l5e/assets-v1/279aee7c-fd53-4650-8a3e-32aff08642ff/peca-80.jpg"
+ },
+ {
+  "nome": "Vestido curto preto de poá branco",
+  "categoria": "vestido",
+  "cor": "Preto com estampa de bolinhas (poá) brancas",
+  "detalhes": "Modelagem justa ao corpo com decote reto e alças finas duplas. O tecido possui caimento estruturado e comprimento curto acima dos joelhos.",
+  "id": "peca-81",
+  "url": "/__l5e/assets-v1/8f98f3d7-bdda-438a-bca2-cbb7fa72e09b/peca-81.jpg"
+ },
+ {
+  "nome": "Vestido curto preto com glitter",
+  "categoria": "vestido",
+  "cor": "preto com brilho prateado",
+  "detalhes": "Modelagem justa ao corpo com alças finas tipo espaguete. Tecido com acabamento em glitter e comprimento mini.",
+  "id": "peca-82",
+  "url": "/__l5e/assets-v1/ee3a0c73-c33b-4eb3-a293-1ecaa5da0267/peca-82.jpg"
+ },
+ {
+  "nome": "Vestido tubinho roxo de alças finas",
+  "categoria": "vestido",
+  "cor": "roxo",
+  "detalhes": "Modelagem justa ao corpo com alças finas e decote levemente arredondado. O tecido aparenta ser malha de algodão ou elastano com comprimento curto e acabamento simples na barra.",
+  "id": "peca-83",
+  "url": "/__l5e/assets-v1/48d94e05-49b0-4089-959d-862aae56aa96/peca-83.jpg"
+ },
+ {
+  "nome": "Vestido curto preto frente única",
+  "categoria": "vestido",
+  "cor": "Preto",
+  "detalhes": "Modelagem acinturada com decote em V profundo e alça larga frente única. Possui saia em corte evasê de comprimento curto, confeccionada em tecido plano de aparência leve.",
+  "id": "peca-84",
+  "url": "/__l5e/assets-v1/4c9d2047-cd58-46b2-94bf-ac5d1f5ef7e6/peca-84.jpg"
+ },
+ {
+  "nome": "Vestido preto ajustado com decote V",
+  "categoria": "vestido",
+  "cor": "Preto",
+  "detalhes": "Modelagem justa ao corpo estilo tubinho, com alças largas e decote em V profundo. O tecido apresenta uma textura levemente canelada ou encorpada com comprimento curto.",
+  "id": "peca-85",
+  "url": "/__l5e/assets-v1/d6904632-069e-479f-921f-5346c10f2d00/peca-85.jpg"
+ },
+ {
+  "nome": "Vestido longo preto acetinado",
+  "categoria": "vestido",
+  "cor": "preto",
+  "detalhes": "Vestido de comprimento longo com alças finas e decote reto, apresentando acabamento em tecido acetinado com brilho. Possui modelagem ajustada ao corpo com costuras verticais estruturantes que valorizam a silhueta.",
+  "id": "peca-86",
+  "url": "/__l5e/assets-v1/a9cda264-e4bb-437d-9527-81c8ddc1c36f/peca-86.jpg"
+ },
+ {
+  "nome": "Casaco mostarda com gola ampla",
+  "categoria": "casaco",
+  "cor": "mostarda",
+  "detalhes": "Possui modelagem estruturada em tecido plano tipo lã, gola assimétrica ampla com botões metálicos decorativos e bolsos frontais embutidos verticais.",
+  "id": "peca-87",
+  "url": "/__l5e/assets-v1/728ee66b-c19d-4e95-b19a-732e847d6bd4/peca-87.jpg"
+ },
+ {
+  "nome": "Blazer preto de botão único",
+  "categoria": "casaco",
+  "cor": "preto",
+  "detalhes": "Modelagem acinturada com gola tailleur e fechamento frontal por um único botão. O tecido parece ser uma malha encorpada ou sarja com acabamento fosco e comprimento médio.",
+  "id": "peca-88",
+  "url": "/__l5e/assets-v1/15600a70-f940-497d-abd0-9e5edf8be2f2/peca-88.jpg"
+ },
+ {
+  "nome": "Saia midi floral amarela e azul",
+  "categoria": "saia",
+  "cor": "Amarelo e azul marinho",
+  "detalhes": "Modelagem evasê com babado fluido na barra e comprimento midi. Tecido leve com estampa floral de grandes dimensões e cintura alta estruturada.",
+  "id": "peca-89",
+  "url": "/__l5e/assets-v1/b05f3564-dd4e-45be-aef0-01ccf1ae7e0e/peca-89.jpg"
+ },
+ {
+  "nome": "Top frente única preto",
+  "categoria": "blusa",
+  "cor": "preto",
+  "detalhes": "Modelagem frente única com amarração fina no pescoço e drapeado no busto. Tecido de aparência leve com caimento solto e acabamento fluido.",
+  "id": "peca-90",
+  "url": "/__l5e/assets-v1/e22deee1-59e4-4357-8e4f-0c2a4cdf2aa9/peca-90.jpg"
+ },
+ {
+  "nome": "Saia xadrez colorida com babados",
+  "categoria": "saia",
+  "cor": "Multicolorida (azul, rosa, preto e laranja)",
+  "detalhes": "Saia curta com estampa xadrez vibrante e sobreposição de babados volumosos. Possui modelagem ajustada no topo com camadas fluidas que criam textura e movimento.",
+  "id": "peca-91",
+  "url": "/__l5e/assets-v1/c1d0e06e-3bf6-4668-a3e0-b8a0b3fdb6dc/peca-91.jpg"
+ },
+ {
+  "nome": "Vestido curto de brilho com alças finas",
+  "categoria": "vestido",
+  "cor": "Preto com brilho prateado",
+  "detalhes": "Vestido de comprimento curto com decote em V profundo e alças finas, confeccionado em tecido com fios metalizados ou lurex. Apresenta modelagem acinturada com saia levemente rodada e fluida.",
+  "id": "peca-92",
+  "url": "/__l5e/assets-v1/a963147d-6d65-44ab-b4ca-6d0f70feeb45/peca-92.jpg"
+ },
+ {
+  "nome": "Corset jacquard branco com babados",
+  "categoria": "outro",
+  "cor": "Branco",
+  "detalhes": "Modelagem estruturada com barbatanas e fechamento frontal por busk metálico, confeccionada em tecido jacquard com padronagem floral. Possui acabamento em pequenos babados nas extremidades superior e inferior, além de fitas de cetim para amarração.",
+  "id": "peca-93",
+  "url": "/__l5e/assets-v1/d60c83bd-ee14-46a6-869e-407a23bdeb59/peca-93.jpg"
+ },
+ {
+  "nome": "Cardigã cropped felpudo branco",
+  "categoria": "cardigã",
+  "cor": "Branco",
+  "detalhes": "Modelagem cropped com gola em V, confeccionado em tricô felpudo de toque macio. Possui fechamento frontal por três botões grandes e dois bolsos quadrados aplicados.",
+  "id": "peca-94",
+  "url": "/__l5e/assets-v1/09ab4685-178d-4beb-8bab-a173658fadab/peca-94.jpg"
+ }
+]
