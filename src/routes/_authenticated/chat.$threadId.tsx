@@ -10,9 +10,19 @@ import { Conversation, ConversationContent, ConversationScrollButton, Conversati
 import { Message, MessageContent, MessageResponse } from "@/components/ai-elements/message";
 import { PromptInput, PromptInputTextarea, PromptInputFooter, PromptInputSubmit } from "@/components/ai-elements/prompt-input";
 import { Shimmer } from "@/components/ai-elements/shimmer";
-import logo from "@/assets/madame-plaid.png";
+import { Button } from "@/components/ui/button";
+import { ArrowUpRight, Music2, BriefcaseBusiness, Flower2, Drama } from "lucide-react";
+import logo from "@/assets/madame-plaid-rose.jpg";
 
 export const Route = createFileRoute("/_authenticated/chat/$threadId")({
+  head: () => ({ meta: [
+    { title: "Seu evento — Madame Plaid" },
+    { name: "description", content: "Converse com Madame Plaid e escolha seus looks para o próximo evento." },
+    { property: "og:title", content: "Seu evento — Madame Plaid" },
+    { property: "og:description", content: "Seu guarda-roupa, suas referências, sua próxima ocasião." },
+    { property: "og:type", content: "website" },
+    { name: "twitter:card", content: "summary_large_image" },
+  ] }),
   loader: ({ context, params }) => context.queryClient.ensureQueryData(messagesQuery(params.threadId)),
   component: ThreadPage,
 });
@@ -29,6 +39,8 @@ const SUGGESTIONS = [
   "Piquenique no parque domingo à tarde, nublado",
   "Teatro à noite, friozinho de 16°C",
 ];
+const EVENT_ICONS = [Music2, BriefcaseBusiness, Flower2, Drama];
+const EVENT_LABELS = ["Uma noite de rock", "Um novo capítulo", "Domingo no parque", "Uma noite no teatro"];
 
 function ChatWindow({ threadId, initial }: { threadId: string; initial: UIMessage[] }) {
   const qc = useQueryClient();
@@ -68,20 +80,23 @@ function ChatWindow({ threadId, initial }: { threadId: string; initial: UIMessag
   const waiting = status === "submitted" || (status === "streaming" && last?.role === "assistant" && !last.parts.some((p) => p.type === "text" && p.text));
 
   return (
-    <div className="flex min-h-0 flex-1 flex-col">
+    <div className="editorial-page flex min-h-0 flex-1 flex-col">
       <Conversation className="flex-1">
         <ConversationContent className="mx-auto w-full max-w-3xl">
           {messages.length === 0 ? (
-            <ConversationEmptyState>
-              <img src={logo} alt="Madame Plaid" className="mb-4 h-24 w-24 rounded-full shadow-md" />
-              <h1 className="text-4xl">Para onde vamos hoje?</h1>
-              <p className="mt-2 max-w-md text-muted-foreground">Conte o evento, o horário e o clima. Eu monto três looks com as peças do seu guarda-roupa.</p>
-              <div className="mt-6 grid w-full max-w-xl gap-2 sm:grid-cols-2">
-                {SUGGESTIONS.map((s) => (
-                  <button key={s} type="button" onClick={() => send(s)} className="rounded-sm border bg-card p-3 text-left text-sm hover:border-primary">
-                    {s}
-                  </button>
-                ))}
+            <ConversationEmptyState className="py-10 sm:py-16">
+              <img src={logo} alt="" className="editorial-emblem mb-5 h-32 w-32 sm:h-40 sm:w-40" />
+              <p className="mb-3 text-xs uppercase text-primary">Madame Plaid · styling pessoal</p>
+              <h1 className="editorial-title text-4xl sm:text-5xl">Para onde vamos hoje?</h1>
+              <div className="mt-8 grid w-full max-w-xl gap-x-8 sm:grid-cols-2">
+                {SUGGESTIONS.map((s, i) => {
+                  const Icon = EVENT_ICONS[i] ?? Music2;
+                  return <Button key={s} variant="outline" onClick={() => send(s)} className="event-choice gap-3 bg-transparent px-0 hover:bg-secondary/40">
+                    <Icon className="text-primary" />
+                    <span className="flex-1"><span className="block font-display text-xl">{EVENT_LABELS[i]}</span><span className="mt-1 block text-xs font-normal text-muted-foreground">{["Sexta · 22°C", "Feira de emprego · 30°C", "Piquenique · nublado", "Teatro · 16°C"][i]}</span></span>
+                    <ArrowUpRight className="text-muted-foreground" />
+                  </Button>;
+                })}
               </div>
             </ConversationEmptyState>
           ) : (
@@ -100,7 +115,7 @@ function ChatWindow({ threadId, initial }: { threadId: string; initial: UIMessag
         <ConversationScrollButton />
       </Conversation>
       <div className="mx-auto w-full max-w-3xl p-4">
-        <PromptInput onSubmit={(msg) => send(msg.text ?? "")}>
+        <PromptInput className="editorial-composer" onSubmit={(msg) => send(msg.text ?? "")}>
           <PromptInputTextarea name="message" placeholder="Ex.: palestra amanhã às 9h, vai chover…" autoFocus />
           <PromptInputFooter className="justify-end">
             <PromptInputSubmit status={status} onStop={stop} />
