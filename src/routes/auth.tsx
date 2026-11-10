@@ -6,7 +6,7 @@ import { supabase } from "@/integrations/supabase/client";
 import { lovable } from "@/integrations/lovable/index";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
-import logo from "@/assets/madame-plaid.png";
+import logo from "@/assets/madame-plaid-rose.jpg";
 
 export const Route = createFileRoute("/auth")({
   head: () => ({
@@ -15,6 +15,8 @@ export const Route = createFileRoute("/auth")({
       { name: "description", content: "Entre para conversar com sua stylist pessoal." },
       { property: "og:title", content: "Entrar — Madame Plaid" },
       { property: "og:description", content: "Entre para conversar com sua stylist pessoal." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: AuthPage,
@@ -52,10 +54,10 @@ function AuthPage() {
   };
 
   return (
-    <div className="flex min-h-screen items-center justify-center bg-plaid bg-background p-4">
-      <div className="w-full max-w-sm rounded-sm border bg-card p-8 shadow-xl">
-        <img src={logo} alt="" className="mx-auto h-20 w-20 rounded-full" />
-        <h1 className="mt-3 text-center text-3xl">Madame Plaid</h1>
+    <div className="editorial-page flex min-h-svh items-center justify-center bg-background px-6 py-12">
+      <div className="w-full max-w-sm">
+        <img src={logo} alt="" className="editorial-emblem mx-auto h-32 w-32" />
+        <h1 className="mt-5 text-center text-4xl">Madame <span className="italic text-primary">Plaid</span></h1>
         <p className="mb-6 text-center text-sm text-muted-foreground">{mode === "in" ? "Bem-vinda de volta" : "Crie sua conta"}</p>
         <form onSubmit={submit} className="space-y-3">
           <Input type="email" required placeholder="E-mail" value={email} onChange={(e) => setEmail(e.target.value)} />
@@ -64,14 +66,14 @@ function AuthPage() {
         </form>
         <div className="my-4 text-center text-xs text-muted-foreground">ou</div>
         <div className="space-y-2">
-          <button type="button" onClick={() => oauth("google")} className="google-btn flex h-10 w-full items-center justify-center gap-[10px] rounded-sm px-3 text-sm font-medium">
-            <G /> Continue with Google
-          </button>
-          <button type="button" className="lovable-auth-button w-full" onClick={() => oauth("lovable")}>Continue with Lovable</button>
+          <Button type="button" variant="outline" onClick={() => oauth("google")} className="google-btn h-10 w-full">
+            <G /> Continuar com Google
+          </Button>
+          <Button type="button" variant="outline" className="h-10 w-full" onClick={() => oauth("lovable")}>Continuar com Lovable</Button>
         </div>
-        <button type="button" onClick={() => setMode(mode === "in" ? "up" : "in")} className="mt-5 w-full text-center text-sm text-primary underline-offset-4 hover:underline">
+        <Button variant="link" type="button" onClick={() => setMode(mode === "in" ? "up" : "in")} className="mt-5 w-full text-center text-sm text-primary underline-offset-4 hover:underline">
           {mode === "in" ? "Ainda não tem conta? Criar" : "Já tenho conta"}
-        </button>
+        </Button>
       </div>
     </div>
   );

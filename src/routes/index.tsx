@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { Button } from "@/components/ui/button";
-import logo from "@/assets/madame-plaid.png";
+import { ArrowUpRight } from "lucide-react";
+import logo from "@/assets/madame-plaid-rose.jpg";
 
 export const Route = createFileRoute("/")({
   head: () => ({
@@ -9,6 +10,8 @@ export const Route = createFileRoute("/")({
       { name: "description", content: "Looks atemporais montados com o seu próprio guarda-roupa para cada evento, horário e clima." },
       { property: "og:title", content: "Madame Plaid — sua stylist pessoal" },
       { property: "og:description", content: "Looks atemporais montados com o seu próprio guarda-roupa." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: Index,
@@ -16,13 +19,12 @@ export const Route = createFileRoute("/")({
 
 function Index() {
   return (
-    <div className="flex min-h-screen flex-col items-center justify-center bg-plaid bg-background px-6 text-center">
-      <img src={logo} alt="Madame Plaid" width={816} height={816} className="h-44 w-44 rounded-full shadow-xl" />
-      <h1 className="mt-6 text-6xl">Madame Plaid</h1>
-      <p className="mt-3 max-w-md text-lg text-muted-foreground">
-        Diga aonde vai. Ela abre o seu guarda-roupa e devolve três looks — com o porquê de cada linha, camada e cor.
-      </p>
-      <Button asChild size="lg" className="mt-8"><Link to="/chat">Começar</Link></Button>
+    <div className="editorial-page flex min-h-svh flex-col items-center justify-center bg-background px-6 py-12 text-center">
+      <p className="mb-8 text-xs uppercase text-primary">O closet da Raianne</p>
+      <img src={logo} alt="" width={816} height={816} className="editorial-emblem h-52 w-52 sm:h-64 sm:w-64" />
+      <h1 className="editorial-title mt-7 text-5xl sm:text-7xl">Madame <span className="italic text-primary">Plaid</span></h1>
+      <p className="mt-5 font-display text-2xl text-muted-foreground">Uma ocasião. A sua essência.</p>
+      <Button asChild size="lg" className="mt-8 h-12 gap-8"><Link to="/chat">Começar <ArrowUpRight /></Link></Button>
     </div>
   );
 }
