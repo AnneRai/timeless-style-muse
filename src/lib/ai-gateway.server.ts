@@ -12,7 +12,7 @@ export function createResponsesCall(request: Request, apiKey: string, model: str
   });
   const result = streamText({
     model: provider.responses(model),
-    system,
+    instructions: system,
     messages,
     abortSignal: request.signal,
     maxRetries: 0,
