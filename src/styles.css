@@ -147,3 +147,7 @@
   }
   .stylist-answer h2, .stylist-answer h3 { font-family: var(--font-display); color: var(--color-primary); }
 }
+
+@layer components {
+  .google-btn { background: #ffffff; border: 1px solid #747775; color: #1f1f1f; }
+}
