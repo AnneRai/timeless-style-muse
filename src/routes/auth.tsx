@@ -43,7 +43,7 @@ function AuthPage() {
       ? await supabase.auth.signInWithPassword({ email, password })
       : await supabase.auth.signUp({ email, password, options: { emailRedirectTo: window.location.origin + "/chat" } });
     setLoading(false);
-    if (error) return toast.error(error.message);
+    if (error) { toast.error(error.message); return; }
     if (mode === "up") toast.success("Confira seu e-mail para confirmar a conta.");
   };
   const oauth = async (p: "google" | "lovable") => {
