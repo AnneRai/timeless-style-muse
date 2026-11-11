@@ -31,3 +31,4 @@ use the editor.
 
 - Wardrobe catalog is static: `src/data/wardrobe.json` (id, nome, categoria, cor, detalhes, url) generated offline from user photos; photo pointers live in `src/assets/wardrobe/`. Why: the user sends photos via chat, not through the app.
 - Stylist chat streams from `src/routes/api/chat.ts` (bearer-auth checked in handler, RLS-scoped client); system prompt built in `src/lib/stylist.server.ts`. Threads/messages persisted in `threads`/`messages` tables, one thread per event at `/chat/$threadId`.
+- Shared editorial appearance uses semantic tokens and editorial utilities in `src/styles.css`; all brand displays import the same recolored emblem, with a derived favicon, to keep entry, login and chat visually consistent.
